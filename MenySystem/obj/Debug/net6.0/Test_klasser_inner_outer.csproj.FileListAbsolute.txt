@@ -1,0 +1,15 @@
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\bin\Debug\net6.0\Test_klasser_inner_outer.exe
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\bin\Debug\net6.0\Test_klasser_inner_outer.deps.json
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\bin\Debug\net6.0\Test_klasser_inner_outer.runtimeconfig.json
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\bin\Debug\net6.0\Test_klasser_inner_outer.dll
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\bin\Debug\net6.0\Test_klasser_inner_outer.pdb
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\Test_klasser_inner_outer.csproj.AssemblyReference.cache
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\Test_klasser_inner_outer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\Test_klasser_inner_outer.AssemblyInfoInputs.cache
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\Test_klasser_inner_outer.AssemblyInfo.cs
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\Test_klasser_inner_outer.csproj.CoreCompileInputs.cache
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\Test_klasser_inner_outer.dll
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\refint\Test_klasser_inner_outer.dll
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\Test_klasser_inner_outer.pdb
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\Test_klasser_inner_outer.genruntimeconfig.cache
+C:\Users\osci1\OneDrive\C#\Grundläggande_programmering_HT22\Test_klasser_inner_outer\obj\Debug\net6.0\ref\Test_klasser_inner_outer.dll
